@@ -1,10 +1,20 @@
-## NutriPlan, by Srcbook
 
-This app was created using https://srcbook.com.
-Need help or want to join the community? Join our [Discord](https://discord.gg/shDEGBSe2d).
+# NutriPlan
 
-To run the devserver:
-```
-npm install
-npm run dev
-```
+**Description:**  
+NutriPlan is a meal planning and nutrition tracker that helps users create balanced meal plans tailored to their dietary needs and health goals.
+
+**Features:**
+- Custom meal plans
+- Nutritional tracking
+- Dietary goal setting
+
+**Technologies Used:**  
+- React.js  
+- Vercel for deployment
+
+For more details, visit [NutriPlan](https://nutri-plan-theta.vercel.app/).
+
+---
+
+Feel free to adjust the description based on additional features!
